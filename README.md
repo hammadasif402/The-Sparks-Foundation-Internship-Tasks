@@ -17,9 +17,21 @@ This repository contains the tasks that I completed while working as an intern f
 * Use R or Python or perform this task.
 * Data can be found at https://bit.ly/3cGyP8j  
                                                                                          
-## Task-3 : Exploratory Data Analysis
+## Task-3 : Exploratory Data Analysis on Super Store.
 
 * Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 * As a business manager, try to find out the weak areas where you can work to make more profit.
 * What all business problems you can derive by exploring the data?
 * Dataset: https://bit.ly/3i4rbWl
+
+## Task-4 : Exploratory Data Analysis on Global Terrorism.
+* Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+* As a security/defense analyst, try to find out the hot zone of terrorism.
+* What all security issues and insights you can derive by EDA?
+* Dataset: https://bit.ly/2TK5Xn5
+
+## Task-5 : Exploratory Data Analysis on IPL.
+* Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
+* As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
+* Suggest teams or players a company should endorse for its products.
+* Dataset:https://bit.ly/34SRn3b
